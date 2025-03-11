@@ -25,15 +25,11 @@ This is a Personal Finance Tracker application built with Next.js, React, and va
 - React
 - shadcn/ui
 - Recharts
-- MongoDB
 
 ## Getting Started
 1. Clone the repository.
 2. Install dependencies using `npm install`.
 3. Run the application in development mode using `npm run dev`.
-
-## Deployment
-Instructions for deploying the application on a cloud platform will be provided here.
 
 ## License
 This project is licensed under the MIT License.
