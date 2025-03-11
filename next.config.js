@@ -2,8 +2,10 @@
 const nextConfig = {
   output: 'export',
   eslint: {
-    ignoreDuringBuilds: true,
+    // Consider removing this line to not ignore ESLint errors during builds
+    // ignoreDuringBuilds: true,
   },
+
   images: { unoptimized: true },
 };
 
