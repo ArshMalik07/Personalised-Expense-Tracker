@@ -1,4 +1,4 @@
-# Personal Finance Tracker
+# Personalised-Expense-Tracker
 
 This is a Personal Finance Tracker application built with Next.js, React, and various UI components. The application allows users to track their transactions, set budgets, and visualize their spending.
 
